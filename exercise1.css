@@ -1,0 +1,15 @@
+body{
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.first-head{
+    color: rgb(5, 233, 157);
+}
+.bg-color{
+    background-color: rgb(226, 221, 221);
+}
+.one-line{
+    background-color: blue;
+}
